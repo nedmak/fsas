@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+.container{
+    margin-top: 7%;
+    padding: 30px;
+    padding-top: 50px;
+    width: 30%;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+.btn{
+    margin-bottom: 25px;
+    padding: 10px;
+}
+h3{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+#google{
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}
+#facebook{
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}

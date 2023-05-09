@@ -1,0 +1,19 @@
+
+body{
+    background-color: gray;
+}
+.container{
+    margin-top: 25px;
+}
+table{
+    background-color: white;
+    border-radius: 5px;
+}
+.w-5{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 5px;
+}
+.text-sm{
+    margin-top: 10px;
+}
